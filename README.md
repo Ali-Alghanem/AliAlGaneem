@@ -41,17 +41,17 @@ I am a Business Analyst with 2 years of experience across the full SDLC in Agile
 
 ## Selected Product Work | مشاريع مختارة
 
-### Saayah | سَعْيَة
+### [Saayah | سَعْيَة](https://github.com/AliAlGaneem/saayah-case-study)
 An Arabic-first SaaS product that organizes the job-application journey, including company tracking, personalized outreach workflows, follow-ups, and reply monitoring.
 
 منتج SaaS عربي لإدارة رحلة التقديم على الوظائف، من تنظيم الشركات والتواصل المخصص إلى المتابعة ومراقبة الردود.
 
-### Wathiq | وثّق
+### [Wathiq | وثّق](https://github.com/AliAlGaneem/wathiq-case-study)
 An AI-first workspace designed for Business Analysts to analyze requirements, identify missing information, and improve readiness for BRD and SRS documentation.
 
 مساحة عمل ذكية لمحللي الأعمال تساعد على تحليل المتطلبات، واكتشاف المعلومات الناقصة، ورفع جاهزية وثائق BRD وSRS.
 
-### Shahi Dashboard | لوحة شاهي الجبل
+### [Shahi Dashboard | لوحة شاهي الجبل](https://github.com/AliAlGaneem/shahi-dashboard-case-study)
 An Arabic RTL management dashboard for operational and financial analysis across sales, inventory, profitability, purchasing, expenses, waste, and staff performance.
 
 لوحة إدارة عربية لتحليل الأداء التشغيلي والمالي، تشمل المبيعات والمخزون والربحية والمشتريات والمصروفات والهدر وأداء الموظفين.
