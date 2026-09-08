@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ali AlGaneem
+# Ali Alghanem
 
 ### ECBA-Certified Business Analyst | محلل أعمال معتمد ECBA
 
